@@ -1,0 +1,8 @@
+wheel
+pandas
+dash
+dash_bootstrap_components
+sklearn
+matplotlib
+base64
+webbrowser
