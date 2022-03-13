@@ -7,4 +7,16 @@
 
 - This Project is used to analyze the customer's reviews of different products from a E-commerce Website called Etsy whether it is a Positive or Negative review.
 
- ![wordCloud](wordCloud.png)
+
+
+
+
+ 
+![wordCloud](wordCloud.png)
+
+
+![pie_chart](pie_chart.png)
+
+<p align="center">
+  <img width="460" height="300" src="C:\Users\nithi\OneDrive\Documents\project screenshots\pie-chart.png">
+</p>
