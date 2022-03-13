@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="750" height="500" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/pie_chart.png?raw=true">
+  <img width="450" height="250" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/pie_chart.png?raw=true">
 </p>
 
 <p align="center">
