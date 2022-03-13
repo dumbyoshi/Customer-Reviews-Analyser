@@ -9,5 +9,5 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
+  <img width="800" height="300" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
 </p>
