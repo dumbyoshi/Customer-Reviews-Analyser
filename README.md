@@ -14,14 +14,7 @@
   <img width="750" height="500" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
 </p>
 
-<p align="center">
+<p align="right">
   <img width="450" height="250" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/pie_chart.png?raw=true">
 </p>
 
-<p align="center">
-  <img width="1010" height="850" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/1.png?raw=true">
-</p>
-
-<p align="center">
-  <img width="1024" height="768" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/Dropdown.png?raw=true">
-</p>
