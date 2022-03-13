@@ -18,5 +18,5 @@
 ![pie_chart](pie_chart.png)
 
 <p align="center">
-  <img width="460" height="300" src="C:\Users\nithi\OneDrive\Documents\project screenshots\pie-chart.png">
+  <img width="460" height="300" src="![pie-chart](pie_chart.png)">
 </p>
