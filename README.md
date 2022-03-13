@@ -9,15 +9,15 @@
 
 
 <p align="center">
-  <img width="1010" height="700" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
+  <img width="950" height="700" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
 </p>
 
 <p align="center">
-  <img width="1010" height="700" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/pie_chart.png?raw=true">
+  <img width="950" height="700" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/pie_chart.png?raw=true">
 </p>
 
 <p align="center">
-  <img width="1010" height="300" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/1.png?raw=true">
+  <img width="1010" height="800" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/1.png?raw=true">
 </p>
 
 <p align="center">
