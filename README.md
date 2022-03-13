@@ -7,7 +7,7 @@
 
 - This Project is used to analyze the customer's reviews of different products from a E-commerce Website called Etsy whether it is a Positive or Negative review.
 
-![](D:\New Project.gif)
+![gif](D:\New Project.gif)
 
 
 <p align="center">
