@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <img width="1020" height="900" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/Dropdown.png?raw=true">
+  <img width="900" height="900" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/Dropdown.png?raw=true">
 </p>
