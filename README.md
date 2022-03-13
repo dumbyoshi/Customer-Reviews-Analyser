@@ -7,6 +7,9 @@
 
 - This Project is used to analyze the customer's reviews of different products from a E-commerce Website called Etsy whether it is a Positive or Negative review.
 
+
+
+
 <center>
     <img src="C:\Users\nithi\OneDrive\Documents\project screenshots\pie_chart.png">
 </center>
