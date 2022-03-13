@@ -7,6 +7,9 @@
 
 - This Project is used to analyze the customer's reviews of different products from a E-commerce Website called Etsy whether it is a Positive or Negative review.
 
+![](D:\New Project.gif)
+
+
 <p align="center">
   <img width="750" height="500" src="https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/project%20screenshots/wordCloud.png?raw=true">
 </p>
