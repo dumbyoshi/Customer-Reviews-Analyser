@@ -7,4 +7,4 @@
 
 - This Project is used to analyze the customer's reviews of different products from a E-commerce Website called Etsy whether it is a Positive or Negative review.
 
-![Alt Text]()
+![Gif](https://github.com/nithinkrish-25/Sentiment-Analysis-NLP-project/blob/main/ezgif-2-7e2f589476.gif?raw=true)
